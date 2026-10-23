@@ -2,14 +2,12 @@
 
 I'm a creative technologist and second-year AI student at King's College London, building things around music, movement and the people who use them. I'm also Head of Media and Marketing at KCL Robotics.
 
-#### ♪ right now
+#### ♪ Current work
 
 - [Unseen Steps](https://github.com/anushaisawesome/unseen-steps): live audio description of dance for blind audience members, timed to fit between musical phrases. Built at Encode London, October 2026.
 - [EMG wearable](https://github.com/anushaisawesome/emg-scope): muscle signals and movement from dancers, turned into live visuals in TouchDesigner.
 
-<sub>⋆｡°✩ ˚｡⋆</sub>
-
-#### ✧ projects
+#### ✧ Projects
 
 - **LinerNotes**: a music journaling app with synced lyrics, built with friends (Next.js and React Native, work in progress).
 - **[Wise LifeSwitch](https://github.com/akshyaprakkash05/Wise-LifeSwitch-IKU-Hack)**: IKU hackathon, October 2026. I built the group features and bill splitting, where Gemini reads a receipt photo and each person pays their share with Apple Pay through Stripe.
@@ -17,9 +15,7 @@ I'm a creative technologist and second-year AI student at King's College London,
 - **[Emotify](https://github.com/anushaisawesome/emotify-spotify-app)**: my A-level project, recommending songs by mood with a Keras model and a k-d tree search.
 - **[Robin](https://github.com/anushaisawesome/robin-assistant)**: an assistant for elderly people that I pitched at the Entrepreneur First hackathon.
 
-<sub>⋆｡°✩ ˚｡⋆</sub>
-
-#### ⚙ tools
+#### ⚙ Tools
 
 ![Python](https://img.shields.io/badge/Python-ffd6e8?style=flat-square&logo=python&logoColor=6b4a7a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d8c8f0?style=flat-square&logo=typescript&logoColor=6b4a7a)
@@ -35,15 +31,11 @@ I'm a creative technologist and second-year AI student at King's College London,
 ![Stripe](https://img.shields.io/badge/Stripe-d8c8f0?style=flat-square&logo=stripe&logoColor=6b4a7a)
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-c8f0dc?style=flat-square&logo=touchdesigner&logoColor=6b4a7a)
 
-<sub>⋆｡°✩ ˚｡⋆</sub>
-
-#### ♡ fun facts
+#### ♡ Outside of code
 
 I DJ with the KCL DJ Society, and at robotics events I'm usually the one taking photos.
 
-<sub>⋆｡°✩ ˚｡⋆</sub>
-
-#### ✉ say hi
+#### ✉ Say hi
 
 [LinkedIn](https://www.linkedin.com/in/anushasisawesome)
 
