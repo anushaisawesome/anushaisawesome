@@ -1,4 +1,4 @@
-### Hi, I'm Anusha     ฅ₍^•⩊ •マⳊ
+### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
 I'm a second-year MSci Artificial Intelligence student at King's College London. I build things around music, movement and the people who use them, and I'm Head of Media and Marketing at KCL Robotics.
 
