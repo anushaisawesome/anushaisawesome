@@ -4,7 +4,7 @@ I'm a creative technologist and second-year AI student at King's College London,
 
 #### ♪ Current work
 
-- [Unseen Steps](https://github.com/anushaisawesome/unseen-steps): live audio description of dance for blind audience members, timed to fit between musical phrases. Built at Encode London, October 2026.
+- [Unseen Steps](https://github.com/anushaisawesome/unseen-steps): live audio description of dance for blind and partially sighted audiences, timed to fit the gaps in the music. 🏆 Google DeepMind created a special prize for it at Encode London, October 2026: the Special Prize for Open Innovation.
 - [EMG wearable](https://github.com/anushaisawesome/emg-scope): muscle signals and movement from dancers, turned into live visuals in TouchDesigner.
 
 #### ✧ Projects
@@ -25,7 +25,7 @@ I'm a creative technologist and second-year AI student at King's College London,
 ![C++ (ESP32)](https://img.shields.io/badge/C%2B%2B_%28ESP32%29-ffd6e8?style=flat-square&logo=cplusplus&logoColor=6b4a7a)
 ![ROS Noetic](https://img.shields.io/badge/ROS_Noetic-d8c8f0?style=flat-square&logo=ros&logoColor=6b4a7a)
 ![Keras](https://img.shields.io/badge/Keras-c8f0dc?style=flat-square&logo=keras&logoColor=6b4a7a)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-cfe6ff?style=flat-square&logo=mediapipe&logoColor=6b4a7a)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-cfe6ff?style=flat-square&logo=mongodb&logoColor=6b4a7a)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-ffe0c8?style=flat-square&logo=googlegemini&logoColor=6b4a7a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffd6e8?style=flat-square&logo=postgresql&logoColor=6b4a7a)
 ![Stripe](https://img.shields.io/badge/Stripe-d8c8f0?style=flat-square&logo=stripe&logoColor=6b4a7a)
