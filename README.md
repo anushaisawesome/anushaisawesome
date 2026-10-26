@@ -13,7 +13,7 @@ I'm a creative technologist and second-year AI student at King's College London,
 - **[Wise LifeSwitch](https://github.com/akshyaprakkash05/Wise-LifeSwitch-IKU-Hack)**: IKU hackathon, October 2026. I built the group features and bill splitting, where Gemini reads a receipt photo and each person pays their share with Apple Pay through Stripe.
 - **[UniBots ball detection](https://github.com/anushaisawesome/unibots-yolo)**: a YOLO26 model trained on 12,548 images merged from public datasets, 97.1% validation mAP, running on our competition robot.
 - **[Emotify](https://github.com/anushaisawesome/emotify-spotify-app)**: my A-level project, recommending songs by mood with a Keras model and a k-d tree search.
-- **[Robin](https://github.com/anushaisawesome/robin-assistant)**: an assistant for elderly people that I pitched at the Entrepreneur First hackathon.
+- **[Robin](https://github.com/anushaisawesome/robin-assistant)**: an assistant for elderly people that I pitched at Eversettled's Empathetic Agents hackathon, held at Entrepreneur First's London office.
 
 #### ⚙ Tools
 
