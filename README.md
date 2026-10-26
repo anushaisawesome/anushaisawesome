@@ -4,7 +4,7 @@ I'm a creative technologist and second-year AI student at King's College London,
 
 #### ♪ Current work
 
-- [Unseen Steps](https://github.com/anushaisawesome/unseen-steps): live audio description of dance for blind and partially sighted audiences, timed to fit the gaps in the music. 🏆 Google DeepMind created a special prize for it at Encode London, October 2026: the Special Prize for Open Innovation.
+- 🏆 [Unseen Steps](https://github.com/anushaisawesome/unseen-steps): live audio description of dance for blind audiences, timed to the gaps in the music. Google DeepMind created a prize for it at Encode London 2026.
 - [EMG wearable](https://github.com/anushaisawesome/emg-scope): muscle signals and movement from dancers, turned into live visuals in TouchDesigner.
 
 #### ✧ Projects
