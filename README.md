@@ -45,7 +45,7 @@ I'm a creative technologist and second-year AI MSci student at King's College Lo
 
 #### ♡ outside of code
 
-I DJ with the KCL DJ Society, and at robotics events I'm usually the one taking photos.
+I DJ with the KCL DJ Society and dance with KCL Hallyu. At robotics events I'm usually the one taking photos.
 
 #### ✉ say hi
 
