@@ -10,6 +10,7 @@ I build two-way interfaces to the body: AI that reads muscle and movement, and w
 #### ▶ deck A · now playing
 
 - **EMG suit**: reads muscle signals and full-body movement and talks back through haptics. For now it's an art piece that turns a dancer's movement into live visuals in TouchDesigner. [emg-scope](https://github.com/anushaisawesome/emg-scope) is where the muscle side started.<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
+
 - **Bionic eye encoder**: the software that decides what the brain sees, so someone can get useful vision back from a device they wear all day.<br><sub>what a sight to see…</sub>
 
 #### ♪ tracklist
