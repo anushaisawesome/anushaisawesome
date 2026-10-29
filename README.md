@@ -26,11 +26,6 @@ I build two-way interfaces to the body: AI that reads muscle and movement, and w
 
 `06` **[Emotify](https://github.com/anushaisawesome/emotify-spotify-app)** my A-level project: songs matched to your mood with a Keras model and a k-d tree search.
 
-#### ✦ wins
-
-- **Oct 2026** · Google DeepMind Special Prize for Open Innovation, Encode London
-- **Nov 2025** · winning team, KCL Informatics Puzzled
-
 #### ⚙ stack
 
 ![Python](https://img.shields.io/badge/Python-ffd6e8?style=flat-square&logo=python&logoColor=6b4a7a)
