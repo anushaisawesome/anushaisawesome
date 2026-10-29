@@ -1,6 +1,6 @@
 ### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
-I'm a creative technologist and second-year AI MSci student at King's College London, building things around music, movement and the people who use them. Lately that means two-way interfaces to the body: AI that reads muscle and movement, and writes back to the muscles and the brain. I'm also Head of Media and Marketing at KCL Robotics.
+I'm a creative technologist and second-year AI MSci student at King's College London. I build two-way interfaces to the body: AI that reads muscle and movement, and writes back to the muscles and the brain. I'm also Head of Media and Marketing at KCL Robotics.
 
 <!-- waveform: add once a real recording exists (plot.py --save, then waveform.py)
 <img src="waveform.svg" alt="Waveform of my forearm muscle signal while clenching" width="100%">
