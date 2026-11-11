@@ -45,7 +45,7 @@ AI student at King's, building tech that reads the body.
 
 #### ♡ outside of code
 
-DJing, dancing with KCL Hallyu, and taking the photos at robotics events.
+I DJ with the KCL DJ Society and dance with KCL Hallyu. At robotics events I'm usually the one taking photos.
 
 #### ✉ say hi
 
