@@ -1,10 +1,10 @@
+<img src="attractor-stars.gif" width="230" align="right" alt="Glowing Thomas attractor, driven live by my forearm, with twinkling stars">
+
 ### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
 AI student at King's, building tech that reads the body.
 
 #### ▶ deck A · now playing
-
-<img src="attractor-loop.gif" width="180" align="right" alt="Glowing Thomas attractor changing shape and colour as I clench">
 
 - **EMG suit** reads muscles and movement and drives live visuals (my forearm is driving the one on the right). Started in [emg-scope](https://github.com/anushaisawesome/emg-scope).<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
 
