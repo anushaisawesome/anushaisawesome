@@ -2,12 +2,9 @@
 
 AI student at King's, building tech that reads the body.
 
-<p align="right"><sub>✦</sub></p>
-<p align="right"><sub>⋆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></p>
-<p align="right"><sub>˚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></p>
-<p align="right"><sub>✧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></p>
-
-<p align="center"><img src="attractor-loop.gif" width="200" alt="Glowing Thomas attractor, driven live by my forearm"></p>
+<p align="center">
+  <sub>⋆ ˚｡⋆୨୧˚</sub>&nbsp;&nbsp;<img src="attractor-loop.gif" width="200" alt="Glowing Thomas attractor, driven live by my forearm">&nbsp;&nbsp;<sub>˚୨୧⋆｡˚ ⋆</sub>
+</p>
 
 #### ▶ deck A · now playing
 
