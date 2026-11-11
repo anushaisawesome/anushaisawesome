@@ -1,33 +1,28 @@
 ### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
-I'm a creative technologist and second-year AI MSci student at King's College London. I build two-way interfaces to the body: AI that reads muscle and movement, and writes back to the muscles and the brain. I'm also Head of Media and Marketing at KCL Robotics.
+<img src="attractor.gif" width="320" alt="Glowing Thomas attractor changing shape and colour as I clench">
 
-<!-- waveform: add once a real recording exists (plot.py --save, then waveform.py)
-<img src="waveform.svg" alt="Waveform of my forearm muscle signal while clenching" width="100%">
-<sub>real muscle data from me clenching a fist</sub>
--->
+AI student at King's, building tech that reads the body.
 
 #### ▶ deck A · now playing
 
-- **EMG suit**: reads muscle signals and full-body movement and talks back through haptics. For now it's an art piece that turns a dancer's movement into live visuals in TouchDesigner. [emg-scope](https://github.com/anushaisawesome/emg-scope) is where the muscle side started, and the first piece is [a Thomas attractor driven by my forearm](https://www.linkedin.com/feed/update/urn:li:activity:7524804130171768833/).<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
+- **EMG suit** reads muscles and movement and drives live visuals (that's my forearm up there). Started in [emg-scope](https://github.com/anushaisawesome/emg-scope).<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
 
-- **Bionic eye encoder**: the software that decides what the brain sees, so someone can get useful vision back from a device they wear all day.<br><sub>what a sight to see…</sub>
+- **Bionic eye encoder** the software that decides what the brain sees.<br><sub>what a sight to see…</sub>
 
 #### ♪ tracklist
 
-`01` **[Unseen Steps](https://github.com/anushaisawesome/unseen-steps)** 🏆 live audio description of dance for blind and partially sighted audiences, narrated in the gaps in the music. Won the Google DeepMind Special Prize for Open Innovation at Encode London 2026. [demo](https://youtu.be/4aadm47Nk1g)
+`01` **[Unseen Steps](https://github.com/anushaisawesome/unseen-steps)** 🏆 live AI audio description of dance · Google DeepMind prize · [demo](https://youtu.be/4aadm47Nk1g)
 
-`02` **[Wayfinder](https://github.com/anushaisawesome/wayfinder)** a robot guide dog for people losing their sight: you lead when you can, it leads when you need. Built solo in MuJoCo at UCL AI Society's AgentVerse hackathon. Across 80 simulated journeys it never moved into anyone.
+`02` **[Wayfinder](https://github.com/anushaisawesome/wayfinder)** robot guide dog for sight loss, built solo
 
-`03` **[UniBots ball detection](https://github.com/anushaisawesome/unibots-yolo)** the vision model our competition robot used to find balls: YOLO26 on 12,548 images, 97.1% validation mAP.
+`03` **[UniBots ball detection](https://github.com/anushaisawesome/unibots-yolo)** 97.1% mAP on our competition robot
 
-`04` **[Wise LifeSwitch](https://github.com/akshyaprakkash05/Wise-LifeSwitch-IKU-Hack)** payments for international students moving abroad, built in 24 hours. I built the group features and bill splitting: Gemini reads the receipt, everyone pays their share with Apple Pay.
+`04` **[Wise LifeSwitch](https://github.com/akshyaprakkash05/Wise-LifeSwitch-IKU-Hack)** group bill splitting · IKU hack
 
-`05` **LinerNotes** a music journaling app for saving moments in songs against synced lyrics, built with friends. Work in progress.
+`05` **LinerNotes** saving moments in songs (in progress)
 
-`06` **[Robin](https://github.com/anushaisawesome/robin-assistant)** an assistant for elderly people that calls each morning with a short, warm rundown of the day. Pitched solo at Eversettled's Empathetic Agents hackathon.
-
-`07` **[Emotify](https://github.com/anushaisawesome/emotify-spotify-app)** my A-level project: songs matched to your mood with a Keras model and a k-d tree search.
+`06` **[Robin](https://github.com/anushaisawesome/robin-assistant)** · `07` **[Emotify](https://github.com/anushaisawesome/emotify-spotify-app)**
 
 #### ⚙ stack
 
@@ -48,7 +43,7 @@ I'm a creative technologist and second-year AI MSci student at King's College Lo
 
 #### ♡ outside of code
 
-I DJ with the KCL DJ Society and dance with KCL Hallyu. At robotics events I'm usually the one taking photos.
+DJing, dancing with KCL Hallyu, and taking the photos at robotics events.
 
 #### ✉ say hi
 
