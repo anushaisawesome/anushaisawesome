@@ -1,12 +1,12 @@
 ### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
-<img src="attractor.gif" width="360" alt="Glowing Thomas attractor changing shape and colour as I clench">
-
 AI student at King's, building tech that reads the body.
 
 #### ▶ deck A · now playing
 
-- **EMG suit** reads muscles and movement and drives live visuals (that's my forearm up there). Started in [emg-scope](https://github.com/anushaisawesome/emg-scope).<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
+<img src="attractor.gif" width="180" align="right" alt="Glowing Thomas attractor changing shape and colour as I clench">
+
+- **EMG suit** reads muscles and movement and drives live visuals (my forearm is driving the one on the right). Started in [emg-scope](https://github.com/anushaisawesome/emg-scope).<br><sub>too many hours spent debugging this lol… thanks for sending me fakes aliexpress 😭</sub>
 
 - **Bionic eye encoder** the software that decides what the brain sees.<br><sub>what a sight to see…</sub>
 
