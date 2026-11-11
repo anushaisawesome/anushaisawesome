@@ -1,6 +1,6 @@
 ### Hi, I'm Anusha&nbsp;&nbsp;&nbsp;ฅ₍^•⩊ •マⳊ
 
-<img src="attractor.gif" width="320" alt="Glowing Thomas attractor changing shape and colour as I clench">
+<img src="attractor.gif" width="360" alt="Glowing Thomas attractor changing shape and colour as I clench">
 
 AI student at King's, building tech that reads the body.
 
