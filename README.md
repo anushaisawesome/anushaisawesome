@@ -3,7 +3,7 @@
 AI student at King's, building tech that reads the body.
 
 <p align="center">
-  <img src="sparkle-trail-left.svg" width="19%" height="170" alt=""><img src="attractor-loop.gif" width="140" alt="Glowing Thomas attractor, driven live by my forearm"><img src="sparkle-trail-right.svg" width="19%" height="170" alt="">
+  <img src="sparkle-crumbs-left.svg" width="19%" height="170" alt=""><img src="attractor-loop.gif" width="140" alt="Glowing Thomas attractor, driven live by my forearm"><img src="sparkle-crumbs-right.svg" width="19%" height="170" alt="">
 </p>
 
 #### ▶ deck A · now playing
